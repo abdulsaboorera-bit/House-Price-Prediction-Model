@@ -74,13 +74,6 @@ Estimated Price = $350,000 (example)
 
 ---
 
-## 📈 Future Improvements
-
-* Add more features (location, bathrooms, garage)
-* Use advanced models
-* Deploy the model as a web application
-
----
 
 ## 👨‍💻 Author
 
